@@ -1,3 +1,5 @@
+![1200-rent-prices-650x405](https://user-images.githubusercontent.com/121138892/217101298-97c43857-d975-4d7a-a062-10e3657c4974.jpg)
+
 # Introduction 
 
 The following is an analysis of the rent prices in Germany, specially for Land Brandenburg:
